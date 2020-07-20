@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "name": "John One",
+      "image": "https://randomuser.me/api/portraits/lego/2.jpg",
+      "Phone": "98742211",
+      "Email": "John@abc.com",
+      "DOB" : "01-07-1960"
+    },
+    {
+        "id": 2,
+        "name": "Alice Two",
+        "image": "https://randomuser.me/api/portraits/lego/7.jpg",
+        "Phone": "94356677",
+        "Email": "Alice@hotmail.com",
+        "DOB" : "11-10-1955"
+      },
+      {
+        "id": 3,
+        "name": "Albert Three",
+        "image": "https://randomuser.me/api/portraits/lego/6.jpg",
+        "Phone": "98704455",
+        "Email": "AlbertThree@hotmail.com",
+        "DOB" : "08-23-1965"
+      },
+      {
+        "id": 4,
+        "name": "Alexa Four",
+        "image": "https://randomuser.me/api/portraits/lego/5.jpg",
+        "Phone": "90876354",
+        "Email": "Alexa@google.com",
+        "DOB" : " 04-12-1978"
+      },
+      {
+        "id": 5,
+        "name": "Smith Five",
+        "image": "https://randomuser.me/api/portraits/lego/3.jpg",
+        "Phone": "97216677",
+        "Email": "Smithfive@gmail.com",
+        "DOB" : "08-11-1980"
+      }
+    ]
