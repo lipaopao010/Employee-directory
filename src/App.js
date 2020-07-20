@@ -33,6 +33,7 @@ class App extends Component {
     if(direction){
       cloned.sort((employeeA, employeeB) => {
 
+        
         if(employeeA[field] < employeeB[field] ){
           return -1
         }else{
